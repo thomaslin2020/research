@@ -7,6 +7,20 @@ verify_ssl = true
 
 [packages]
 flask = "*"
+flask-bcrypt = "*"
+flask-qrcode = "*"
+flask-mail = "*"
+flask-pymongo = "*"
+flask-cors = "*"
+celery = "*"
+flask-script = "*"
+flask-sqlalchemy = "*"
+sqlalchemy = "*"
+flask-migrate = "*"
+alembic = "*"
+configparser = "*"
+flask-login = "*"
+feedparser = "*"
 
 [requires]
 python_version = "3.7"
